@@ -24,7 +24,7 @@
 
   /* STATUS COLORS */
   --online-color: #7d12ff; /* online status color (hex, rgb or hsl) [default: #43b581] */
-  --idle-color: #410068; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
+  --idle-color: #7d12ff; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
   --dnd-color: #982929; /* dnd status color (hex, rgb or hsl) [default: #982929] */
   --streaming-color: #593695; /* streaming status color (hex, rgb or hsl) [default: #593695] */
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
